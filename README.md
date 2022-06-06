@@ -5,3 +5,4 @@
 ```bash
 pip3 install -r requirements.txt
 ```
+![График](https://github.com/rus121/vk_bot/blob/main/example.gif)
